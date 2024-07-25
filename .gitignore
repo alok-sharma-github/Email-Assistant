@@ -1,0 +1,12 @@
+# Development
+build/
+dist/
+
+# VENV
+exec/
+
+# Archive
+*.zip
+
+# SPEC
+*.spec

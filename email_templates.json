@@ -1,0 +1,18 @@
+{
+  "Meeting Request": {
+    "subject": "Meeting Request: [Meeting Topic]",
+    "body": "Dear [Recipient Name],\n\nI hope this email finds you well.\n\nI would like to request a meeting to discuss [Meeting Topic]. Please let me know your availability for the coming week so we can schedule a convenient time.\n\nLooking forward to your response.\n\nBest regards,\n[Your Name]\n[Your Position]\n"
+  },
+  "Project Update": {
+    "subject": "Project Update: [Project Name]",
+    "body": "Dear [Recipient Name],\n\nI am writing to provide an update on the [Project Name]. Here are the key points:\n\n1. [Update 1]\n2. [Update 2]\n3. [Update 3]\n\nIf you have any questions or need further information, please do not hesitate to contact me.\n\nBest regards,\n[Your Name]\n[Your Position]\n"
+  },
+  "Follow-Up": {
+    "subject": "Follow-Up: [Subject]",
+    "body": "Dear [Recipient Name],\n\nI hope this email finds you well.\n\nI am following up on our previous conversation regarding [Topic]. Please let me know if there are any updates or if you require additional information from my side.\n\nThank you for your attention to this matter.\n\nBest regards,\n[Your Name]\n[Your Position]\n"
+  },
+  "Apply for AI/ML": {
+    "subject": "Application for AI/ML Engineer Position",
+    "body": "Dear [Recipient Name],\n\nI hope this email finds you well.\n\nI am writing to express my interest in the AI/ML Engineer position at [Company Name]. With extensive experience in Python for AI/ML applications and a strong background in MLOps, containerization, and web frameworks, I am excited about the opportunity to contribute to your team.\n\nHere is a brief overview of my qualifications:\n\nExpertise in AI/ML Applications: Proven experience in developing and deploying machine learning models and solutions.\nMLOps Proficiency: Skilled in ensuring efficient and scalable machine learning workflows.\nTechnical Skills: Advanced knowledge of Python, HTML, CSS, JavaScript, Docker, Flask, Streamlit, and Django.\nI am particularly impressed by [Company Name]'s innovative approach and would be thrilled to bring my expertise to your organization. Please find my resume attached for your review.\n\nI look forward to the opportunity to discuss how my skills and experiences align with the needs of your team. Thank you for considering my application.\n\nBest regards,\n[Your Name]\n[Your Phone Number]\n[Your LinkedIn Profile or Portfolio]"
+  }
+}
