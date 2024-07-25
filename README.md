@@ -13,7 +13,7 @@ This Email Automation application allows you to send emails with attachments and
 
 1. **Download the Executable**
 
-   - Obtain the executable file from the distribution source or build it using PyInstaller.
+   - Obtain the executable file from (ZIP)[https://github.com/alok-sharma-github/Email-Assistant/blob/main/AutoMail.zip].
 
 2. **Run the Executable**
 
